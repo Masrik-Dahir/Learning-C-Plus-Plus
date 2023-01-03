@@ -1,5 +1,4 @@
 # Learning-C-Plus-Plus
-![Visitor](https://visitor-badge.laobi.icu/badge?page_id=Masrik-Dahir.repoName)
 
 LinkedIn Learning
 
